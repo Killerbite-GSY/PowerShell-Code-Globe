@@ -2,10 +2,6 @@
 
 
 
-Question and/or queries - killerbite@gmail.com
-
-
-
 A rotating digital Earth rendered with PowerShell, WPF and an embedded C# rendering engine.
 
 
@@ -15,6 +11,10 @@ The project uses a real-world land mask wrapped around a mathematically rendered
 
 
 Free to use, modify and distribute under the MIT License. See LICENSE.
+
+
+
+Question and/or queries - killerbite@gmail.com
 
 
 
