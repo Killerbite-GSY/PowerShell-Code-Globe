@@ -41,7 +41,7 @@ It has:
 
 
 
-Close it using the normal window close button.
+Close it using the normal window close button (Esc).
 
 
 
